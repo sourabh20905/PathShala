@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# PathShala educational platform for student and instructor
